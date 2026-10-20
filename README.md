@@ -32,45 +32,43 @@ Fill in the sections below yourself, then:
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥BRKXXX: SESSION TITLE
+## 🔥LAB701: Simplify SAP ECC Migration with Dynamics 365
 
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Experience how Dynamics 365 Activate can help simplify the journey from SAP ECC to Dynamics 365. In this hands-on lab, connect to a provided SAP ECC test environment, assess the migration scope, configure mappings, and execute a trial migration. You'll experience the migration journey from initial discovery through validation, giving you a practical understanding of how to plan and prepare for an SAP ECC migration to Dynamics 365.
 
 ### 🚀 Getting started
+
+Session-specific lab access, setup, and attendee material links are not available yet. Guided and self-paced attendee guidance will live in [`instructions/`](instructions/README.md); that folder currently contains template content.
 
 #### In a guided session
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+1. Follow the session facilitator's guidance.
+2. Use the attendee steps in [`instructions/`](instructions/README.md) once they are available.
 
 #### On your own
 
 If you're learning at your own pace:
 
 1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+2. When available, follow the setup and lab steps in [`instructions/`](instructions/README.md)
 
 ### 🎯 Learning outcomes
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Connect to the provided SAP ECC test environment and assess the migration scope using Dynamics 365 Activate.
+- Configure migration mappings and execute a trial migration from SAP ECC to Dynamics 365 Finance & Operations.
+- Validate the trial migration results to inform planning and preparation for an SAP ECC migration to Dynamics 365 Finance & Operations.
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Dynamics 365 Activate
+- SAP ECC
+- Dynamics 365 Finance & Operations
 
 ### 📚 Continue your learning
 
@@ -109,10 +107,10 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/bambooo-310">
+        <img src="https://github.com/bambooo-310.png" width="100px;" alt="Bharat Bambhaniya"/><br />
+        <sub><b>Bharat Bambhaniya</b></sub></a><br />
+            <a href="https://github.com/bambooo-310" title="talk">📢</a>
     </td>
 </tr></table>
 
