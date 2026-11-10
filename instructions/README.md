@@ -37,12 +37,15 @@ reviews.
 ## Before you begin
 
 *  Once you log in to your lab profile, navigate to make.powerapps.com
-(https://make.powerapps.com/). On the left navigation pane, select Apps.
+   (https://make.powerapps.com/).
+*  When prompted to sign in, use the **Username** and **Temporary Access Pass**
+   shown at the top of these instructions.
+*  On the left navigation pane, select **Apps**.
 *  Above the list of apps, ensure that no filters have been applied. Next to
-Activate Console app, select More commands (⋮), and then select Play to launch
-the app.
-*  Sign in to the Activate Console in Power Apps with the lab user account that
-your proctor provided.
+Activate Console app, select **More commands (⋮)**, and then select **Play** to
+launch the app.
+*  If prompted again, sign in to Activate Console (Power Apps) with the same
+   username and Temporary Access Pass.
 *  Dynamics 365 Activate is now launched. You can create a project or view
 projects that you already have access to.
 *  Use the customer and project names from Exercise 1, Task 1, Step 6 so that

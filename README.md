@@ -1,29 +1,3 @@
-## Before you're done
-
-This repo has been created for your Microsoft Ignite 2026 session. Here's how to get it ready.
-
-**Easiest path — use the agent (recommended):**
-
-- Open GitHub Copilot Chat and say `help me initialize repo`. The agent will walk you through getting the README populated.
-- When you're ready to publish, say `help me finalize repo`. The agent will clean up unused folders, validate everything, and remove this "Before you're done" section and other extra stuff that attendees don't need to see.
-- Curious how it works? Read the [agent workflow](.github/AGENT-WORKFLOW.md).
-
-**Doing it manually?**
-
-Fill in the sections below yourself, then:
-
-- Delete any placeholder folders you don't need (`data/`, `infra/`, etc.)
-- Delete this "Before you're done" section
-- Delete `.github/agents/`, `.github/tests/`, `.github/copilot-instructions.md`, and `.github/AGENT-WORKFLOW.md` — these are template tooling, not part of your published repo
-
-**Folder conventions:**
-
-- Attendee step-by-step guidance goes in `instructions/`. If you use MkDocs or a docs site instead, put it in `docs/` and link to it from this README.
-- Reference material and background reading go in `docs/`.
-- You can add a `.devcontainer/` folder if needed.
-
----
-
 <a name="start-building"></a>
 
 <p align="center">
@@ -32,29 +6,29 @@ Fill in the sections below yourself, then:
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥LAB701: Simplify SAP ECC Migration with Dynamics 365
+## 🔥 LAB701: Discover an SAP ECC Estate with Dynamics 365 Activate
 
 ### Session description
 
-Experience how Dynamics 365 Activate can help simplify the journey from SAP ECC to Dynamics 365. In this hands-on lab, connect to a provided SAP ECC test environment, assess the migration scope, configure mappings, and execute a trial migration. You'll experience the migration journey from initial discovery through validation, giving you a practical understanding of how to plan and prepare for an SAP ECC migration to Dynamics 365.
+Learn how Dynamics 365 Activate helps you assess an SAP ECC estate before migration planning. In this hands-on lab, you'll create a discovery project, run the SAP ECC discovery playbook, and review results that inform migration scope and readiness for Dynamics 365 Finance & Operations.
 
 ### 🚀 Getting started
 
-Session-specific lab access, setup, and attendee material links are not available yet. Guided and self-paced attendee guidance will live in [`instructions/`](instructions/README.md); that folder currently contains template content.
+All lab setup and attendee guidance is available in [`instructions/`](instructions/README.md).
 
 #### In a guided session
 
 If you're following along during a live session:
 
 1. Follow the session facilitator's guidance.
-2. Use the attendee steps in [`instructions/`](instructions/README.md) once they are available.
+2. Use the attendee steps in [`instructions/`](instructions/README.md).
 
 #### On your own
 
 If you're learning at your own pace:
 
 1. Clone this repository
-2. When available, follow the setup and lab steps in [`instructions/`](instructions/README.md)
+2. Follow the setup and lab steps in [`instructions/`](instructions/README.md)
 
 ### 🎯 Learning outcomes
 
@@ -66,9 +40,9 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Dynamics 365 Activate
+- [Dynamics 365 Activate](https://learn.microsoft.com/en-us/dynamics365/dynamics-365-activate/dynamics-365-activate-overview)
 - SAP ECC
-- Dynamics 365 Finance & Operations
+- [Dynamics 365 Finance & Operations](https://learn.microsoft.com/dynamics365/fin-ops/)
 
 ### 📚 Continue your learning
 
@@ -82,8 +56,6 @@ Pick your next step based on your learning style:
 | **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
 
 ### 🌟 Microsoft Learn MCP Server
-
-<!-- Remove this section if the Microsoft Learn MCP Server is not relevant to the session. -->
 
 The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the topics in this session.
 
@@ -100,19 +72,9 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 ### 👥 Content owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-<table>
-<tr>
-    <td align="center"><a href="https://github.com/bambooo-310">
-        <img src="https://github.com/bambooo-310.png" width="100px;" alt="Bharat Bambhaniya"/><br />
-        <sub><b>Bharat Bambhaniya</b></sub></a><br />
-            <a href="https://github.com/bambooo-310" title="talk">📢</a>
-    </td>
-</tr></table>
+- Praveen Kumar Srinivasa Rajendiran
+- Jila Yadav
+- Giridhar Raj Singh Chowhan
 
 ### ⚖️ Trademarks
 

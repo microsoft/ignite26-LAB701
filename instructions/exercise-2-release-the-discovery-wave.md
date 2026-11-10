@@ -17,6 +17,8 @@ see the progress. The tasks may take a few minutes to complete.
 
 > **Note:** After you release the wave, the tasks start. Refresh the page to see their progress. The tasks may take a few minutes to complete.
 
+> **Note:** While waiting for tasks to complete, you can start Exercise 3 by reviewing an already created project. Open the project dropdown next to **Fabrikam Migration** and select **Contoso Migration Assessment**.
+
 ## Task 2: Track the seven discovery tasks
 
 On the Tasks page, refresh the page until every task shows Completed.
