@@ -40,8 +40,8 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- [Dynamics 365 Activate](https://learn.microsoft.com/dynamics365/guidance/implementation-guide/activate-guidance)
-- [SAP ECC](https://learn.microsoft.com/dynamics365/guidance/resources/sap-on-azure)
+- [Dynamics 365 Activate](https://learn.microsoft.com/en-us/dynamics365/dynamics-365-activate/dynamics-365-activate-overview)
+- SAP ECC
 - [Dynamics 365 Finance & Operations](https://learn.microsoft.com/dynamics365/fin-ops/)
 
 ### 📚 Continue your learning
