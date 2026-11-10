@@ -72,7 +72,7 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 ### 👥 Content owners
 
-- Praveen Kumar Srinivasa Rajendiran
+- Praveen Kumar Srinivasan Rajendiran
 - Jila Yadav
 - Giridhar Raj Singh Chowhan
 
